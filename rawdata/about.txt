@@ -1,0 +1,1 @@
+This folder is intended to contain raw data wither pulled from Kaggle datasets or scraped from websites.
