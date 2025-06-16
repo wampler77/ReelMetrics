@@ -1,7 +1,7 @@
 import csv
 import pandas as pd
 
-with open('rotten_tomatoes_movie_reviews.csv', newline='') as rawcsvfile:
+with open('../rawdata/rotten_tomatoes_movie_reviews.csv', newline='') as rawcsvfile:
     with open('rotten_tomatoes_movie_reviews_clean_binary.csv', 'w', newline = '') as cleanbcsvfile:
         with open('rotten_tomatoes_movie_reviews_clean_scale.csv', 'w', newline = '') as cleanscsvfile:
         
