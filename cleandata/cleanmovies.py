@@ -45,7 +45,7 @@ dfc = pd.read_csv('rotten_tomatoes_movies_clean.csv', index_col=False)
 dfcol = dfc.shape[0]
 
 # remove duplicates
-dfc.drop_duplicates()
+dfc = dfc.drop_duplicates()
 
 # final df lengths
 dfcfl = dfc.shape[0]

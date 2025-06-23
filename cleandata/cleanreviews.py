@@ -64,8 +64,8 @@ dfbol = dfb.shape[0]
 dfsol = dfs.shape[0]
 
 # remove duplicates
-dfb.drop_duplicates()
-dfs.drop_duplicates()
+dfb = dfb.drop_duplicates()
+dfs = dfs.drop_duplicates()
 
 # final df lengths
 dfbfl = dfb.shape[0]
