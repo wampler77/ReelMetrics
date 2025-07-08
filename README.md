@@ -1,4 +1,4 @@
-# ReelMetrics - How Early Reviews Effect Film Box Office Performance
+# ReelMetrics - How Early Reviews Affect Film Box Office Performance
 
 ## Authors
 [Michael Neuhoff](https://github.com/neuhoffmj)    
